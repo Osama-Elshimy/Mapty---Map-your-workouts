@@ -13,3 +13,5 @@ A map application you can use to organize and track your workouts, this app is c
 
 # DEMO
 ![mapty](https://user-images.githubusercontent.com/90342783/204081435-aa5a69e6-fbd1-4dd3-a50c-d94dd49ff0e6.png)
+
+# [LIVE DEMO](https://mapty-osama-elshimy.netlify.app/)
